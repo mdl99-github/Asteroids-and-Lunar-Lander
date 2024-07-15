@@ -1,8 +1,8 @@
-# Lunar Lander y Asteroids
+# Lunar Lander and Asteroids
 
-Versiones propias de los populares juegos.
+Tributes to the 1970s games coded in C with vector graphics. Academic purposes only.
 
-Algunas funciones de los originales fueron removidas con el fin de facilitar su confección.
+Some features from the originals were removed in order to facilitate their design.
 
 ![Alt text](images/ll.png)
 
